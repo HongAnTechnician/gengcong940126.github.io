@@ -10,7 +10,7 @@ Ben Wan*, <i><b>Cong Geng*</b></i>, Tianyi Zheng, and Jia Wang<br>
 <br>
 <br>
 <b>[Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training](https://openreview.net/pdf?id=NQPJYEyiiM)</b> <br> 
-Tianyi Zheng, <i><b>Cong Geng</b></i>, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, and Bo Li<br>
+Tianyi Zheng, <i><b>Cong Geng</b></i>, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen,<br> Jia Wang, and Bo Li<br>
 <i>ACM Multimedia&thinsp;2024</i>.
 <br>
 <br>
