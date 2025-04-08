@@ -4,12 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[EBM-WGF: Training energy-based models with Wasserstein gradient flow].(https://www.sciencedirect.com/science/article/pii/S0893608025001790).</b> <br> 
+<b>[EBM-WGF: Training energy-based models with Wasserstein gradient flow](https://www.sciencedirect.com/science/article/pii/S0893608025001790)</b> <br> 
 Ben Wan*, <i><b>Cong Geng*</b></i>, Tianyi Zheng, and Jia Wang<br>
 <i>Neural Networks&thinsp;2025</i>.
 <br>
 <br>
-<b>[Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training].(https://openreview.net/pdf?id=NQPJYEyiiM).</b> <br> 
+<b>[Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training](https://openreview.net/pdf?id=NQPJYEyiiM)</b> <br> 
 Tianyi Zheng, <i><b>Cong Geng</b></i>, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, and Bo Li<br>
 <i>ACM Multimedia&thinsp;2024</i>.
 <br>
