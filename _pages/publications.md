@@ -36,7 +36,7 @@ Tianyi Zheng, <i><b>Cong Geng</b></i>, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwe
 <br>
 <b>[Omni-GAN: On the Secrets of cGANs and Beyond](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Omni-GAN_On_the_Secrets_of_cGANs_and_Beyond_ICCV_2021_paper.pdf)</b> <br> 
 Peng Zhou, Lingxi Xie, Bingbing Ni, <i><b>Cong Geng</b></i>, and Qi Tian<br>
-<i>IEEE International Conference on Computer Vision&thinsp;(ICCV)&thinsp;2021.
+<i>IEEE International Conference on Computer Vision&thinsp;(ICCV)&thinsp;2021</i>.
 <br>
 <br>
 <b>[Adversarial Text Image Super-Resolution Using Sinkhorn Distance](https://ieeexplore.ieee.org/abstract/document/9054360)</b> <br> 
