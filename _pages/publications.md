@@ -4,7 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training</b> <br> 
+<b>[Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training].(https://openreview.net/pdf?id=NQPJYEyiiM).</b> <br> 
+Tianyi Zheng, <i><b>Cong Geng</b></i>, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, and Bo Li<br>
+<i>ACM Multimedia&thinsp;2024</i>.
+<br>
+<br>
+<b>[Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training].(https://openreview.net/pdf?id=NQPJYEyiiM).</b> <br> 
 Tianyi Zheng, <i><b>Cong Geng</b></i>, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, and Bo Li<br>
 <i>ACM Multimedia&thinsp;2024</i>.
 <br>
