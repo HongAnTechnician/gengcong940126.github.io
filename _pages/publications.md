@@ -19,7 +19,7 @@ Tianyi Zheng, <i><b>Cong Geng</b></i>, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwe
 <i>International Journal of Computer Vision&thinsp;(IJCV)&thinsp;(Major Revision)</i>.
 <br>
 <br>
-<b> Improving Adversarial Energy-Based Model via Diffusion Process</b> <br> 
+<b> [Improving Adversarial Energy-Based Model via Diffusion Process](https://arxiv.org/pdf/2403.01666)</b> <br> 
 <i><b>Cong Geng</b></i>, Tian Han, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Søren Hauberg, and Bo Li<br>
 <i>International Conference on Machine Learning&thinsp;(ICML)&thinsp;2024</i>.
 <br>
