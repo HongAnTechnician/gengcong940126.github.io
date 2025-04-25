@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Exploring bidirectional bounds for minimax-training of Energy-based models</b> <br> 
+<i><b>Cong Geng</b></i>, Jia Wang, Li Chen, Zhiyong Gao, Jes Frellsen, and Søren Hauberg<br>
+<i>International Journal of Computer Vision&thinsp;(IJCV)&thinsp;2025</i>.
+<br>
+<br>
 <b>[EBM-WGF: Training energy-based models with Wasserstein gradient flow](https://www.sciencedirect.com/science/article/pii/S0893608025001790)</b> <br> 
 Ben Wan*, <i><b>Cong Geng*</b></i>, Tianyi Zheng, and Jia Wang<br>
 <i>Neural Networks&thinsp;2025</i>.
@@ -12,11 +17,6 @@ Ben Wan*, <i><b>Cong Geng*</b></i>, Tianyi Zheng, and Jia Wang<br>
 <b>[Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training](https://openreview.net/pdf?id=NQPJYEyiiM)</b> <br> 
 Tianyi Zheng, <i><b>Cong Geng</b></i>, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen,<br> Jia Wang, and Bo Li<br>
 <i>ACM Multimedia&thinsp;2024</i>.
-<br>
-<br>
-<b>Exploring bidirectional bounds for minimax-training of Energy-based models</b> <br> 
-<i><b>Cong Geng</b></i>, Jia Wang, Li Chen, Zhiyong Gao, Jes Frellsen, and Søren Hauberg<br>
-<i>International Journal of Computer Vision&thinsp;(IJCV)&thinsp;(Major Revision)</i>.
 <br>
 <br>
 <b> [Improving Adversarial Energy-Based Model via Diffusion Process](https://arxiv.org/pdf/2403.01666)</b> <br> 
