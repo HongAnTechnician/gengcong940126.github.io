@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Exploring bidirectional bounds for minimax-training of Energy-based models</b> <br> 
+<b>[Exploring bidirectional bounds for minimax-training of Energy-based models](https://link.springer.com/epdf/10.1007/s11263-025-02460-0?sharing_token=tzHyaKXxYGh0aNs1-iev1_e4RwlQNchNByi7wbcMAY7KqXKQA27er5S6GHdrg7HPCn8yTxpKzRFe176CYnr1YFX2FGBPybxkRRYjrJ6UQyHPVyhfGi_lCtu-MeCxR5pGmECPLN3TBA8WBZJs6pljO524zr8rM6fRADs5O3Yhs0Q%3D)</b> <br> 
 <i><b>Cong Geng</b></i>, Jia Wang, Li Chen, Zhiyong Gao, Jes Frellsen, and Søren Hauberg<br>
 <i>International Journal of Computer Vision&thinsp;(IJCV)&thinsp;2025</i>.
 <br>
