@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <b>[SMC++: Masked Learning of Unsupervised Video Semantic Compression](https://arxiv.org/pdf/2406.04765)</b> <br> 
-Yuan Tian, Xiaoyue Ling, <i><b>Cong Geng</b></i>, Qiang Hu, Guo Lu, and  Guangtao Zhai<br>
+Yuan Tian, Xiaoyue Ling, <b>Cong Geng</b>, Qiang Hu, Guo Lu, and  Guangtao Zhai<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence&thinsp;(TPAMI)&thinsp;2025</i>.
 <br>
 <br>
