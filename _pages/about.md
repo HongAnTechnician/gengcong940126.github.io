@@ -14,8 +14,8 @@ My research interests mainly focus on bacterial evolution, antimicrobial resista
  
 News
 ------
-- [March 2026] Resaerch paper ["The effect of hyper-induced SOS resposne on evolution in <i>Escherichia coli<i>"](https://pmc.ncbi.nlm.nih.gov/articles/PMC13081320/) accepted to <u><i>BMC Microbioligy<i></u>.
-- [May 2025] Resaerch paper ["Mechanistic divergence between SOS response activation and antibiotic-induced plasmid conjugation in <i>Escherichia coli<i>"](https://pubmed.ncbi.nlm.nih.gov/40434128/) accepted to <u><i>Microbiology Spectrum<i></u>.
+- [March 2026] Resaerch paper ["The effect of hyper-induced SOS resposne on evolution in <i>Escherichia coli<i>"](https://pmc.ncbi.nlm.nih.gov/articles/PMC13081320/) accepted to <u><i>BMC Microbiology</i></u>.
+- [May 2025] Resaerch paper ["Mechanistic divergence between SOS response activation and antibiotic-induced plasmid conjugation in <i>Escherichia coli<i>"](https://pubmed.ncbi.nlm.nih.gov/40434128/) accepted to <u><i>Microbiology Spectrum</i></u>.
 
 
 
