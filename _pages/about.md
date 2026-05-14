@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an AI algorithm researcher at JIUTIAN Research. I obtained my Ph.D. degree from the Department of Electronic Engineering at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)&thinsp;(SJTU). During my Ph.D. study, I visited the [Technical University of Denmark](https://www.dtu.dk/english/)&thinsp;(DTU) for one year and a half, where I worked with [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/) and [Jes Frellsen](https://frellsen.org/). Before joining SJTU in Sep 2016, I obtained my Bachelor’s degree from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)&thinsp;(UESTC).  
-My research interests mainly focus on generative models and their applications. I'm also committed to exploring the geometric and distribution properties of data manifolds through generative models.
+I am currently an Associate Professor at Chengdu Medical College (January 2026–present). I received my Ph.D. from the Department of [Veterinary and Animal Sciences](https://ivh.ku.dk/english/)&thinsp;(IVH), [University of Copenhagen](https://www.ku.dk/en)&thinsp;(UCPH) in May 2025, where I studied the conjugation mechanisms and adaptive evolution in Escherichia coli with the supervision of Prof. [Line Elnif Thomsen](https://researchprofiles.ku.dk/en/persons/line-elnif-thomsen/)&thinsp and Prof. [John Elmerdahl Olsen](https://researchprofiles.ku.dk/en/persons/john-elmerdahl-olsen/)&thinsp. Before that, I obtained my M.Sc. and B.Sc. degrees from the College of Veterinary Medicine, Sichuan Agricultural University, where my research focused on the pathogenic mechanisms of Vibrio mimicus and the evolution and taxonomy of viruses in the family Iridoviridae. 
+
+My research interests mainly focus on bacterial evolution, antimicrobial resistance, horizontal gene transfer, and host–pathogen interactions. In the future, I aim to integrate bacterial genomics, experimental evolution, and machine learning approaches to better understand and predict bacterial adaptation, virulence, and the spread of resistance genes.
  
 News
 ------
-- [Oct 2025] One paper accepted to TPAMI.
-- [Apr 2025] One paper accepted to IJCV.
-- [Mar 2025] One paper accepted to Neural Networks.
+- [March 2026] Resaerch paper ["The effect of hyper-induced SOS resposne on evolution in <i>Escherichia coli<i>"](https://pmc.ncbi.nlm.nih.gov/articles/PMC13081320/) accepted to <i>BMC Microbioligy<i>.
+- [May 2025] Resaerch paper ["Mechanistic divergence between SOS response activation and antibiotic-induced plasmid conjugation in <i>Escherichia coli<i>"](https://pubmed.ncbi.nlm.nih.gov/40434128/) accepted to <i>Microbiology Spectrum<i>.
 
 
 
